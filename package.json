@@ -1,0 +1,18 @@
+{
+  "name": "@vstoodeeoh/vschat-server",
+  "version": "1.0.0",
+  "description": "Chat server for vs clients",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.2"
+  }
+}
