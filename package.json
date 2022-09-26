@@ -1,6 +1,6 @@
 {
   "name": "@vstoodeeoh/vschat-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Chat server for vs clients",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,13 @@
     "mongoose": "^6.6.1",
     "nodemon": "^2.0.20",
     "socket.io": "^4.5.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/virtualstoodeeoh-dev/vschat-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/virtualstoodeeoh-dev/vschat-server/issues"
+  },
+  "homepage": "https://github.com/virtualstoodeeoh-dev/vschat-server#readme"
 }
